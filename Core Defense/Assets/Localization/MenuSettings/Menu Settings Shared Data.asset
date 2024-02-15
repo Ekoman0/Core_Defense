@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menu Settings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu Settings
+  m_TableCollectionNameGuidString: 2fcb7b97209189a4387df88a0865973d
+  m_Entries:
+  - m_Id: 132480090112
+    m_Key: "Yeni Dalgan\u0131n Gelme S\xFCresi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141204242432
+    m_Key: "Bak\u0131r S\u0131kl\u0131\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143922151424
+    m_Key: "Demir S\u0131kl\u0131\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146908495872
+    m_Key: "K\xF6m\xFCr S\u0131kl\u0131\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325749424128
+    m_Key: "S\u0131kl\u0131k Normal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351296929792
+    m_Key: "S\u0131kl\u0131k \xC7ok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374109749248
+    m_Key: "S\u0131kl\u0131k Az"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1142506242048
+    m_Key: "L\xFCtfen 0 ile 180"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2101449965568
+    m_Key: "Uranyum S\u0131kl\u0131\u011F\u0131:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7124070285312
+    m_Key: Ekstra Can
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7200893157376
+    m_Key: "Men\xFCye D\xF6n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7601734402048
+    m_Key: Kaybettin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9870701871104
+    m_Key: "Kazand\u0131n"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 533574356283162650
+  references:
+    version: 2
+    RefIds:
+    - rid: 533574356283162650
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1677759545022

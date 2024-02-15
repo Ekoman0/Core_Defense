@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu Settings_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 2fcb7b97209189a4387df88a0865973d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 132480090112
+    m_Localized: "Yeni Dalgan\u0131n Gelme S\xFCresi(sn):"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141204242432
+    m_Localized: "Bak\u0131r S\u0131kl\u0131\u011F\u0131:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143922151424
+    m_Localized: "Demir S\u0131kl\u0131\u011F\u0131:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146908495872
+    m_Localized: "K\xF6m\xFCr S\u0131kl\u0131\u011F\u0131:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325749424128
+    m_Localized: "S\u0131kl\u0131k Normal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351296929792
+    m_Localized: "S\u0131kl\u0131k \xC7ok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374109749248
+    m_Localized: "S\u0131kl\u0131k Az"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1142506242048
+    m_Localized: "L\xFCtfen 0 ile 180 Aras\u0131nda Bir Say\u0131 Girin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2101449965568
+    m_Localized: "Uranyum S\u0131kl\u0131\u011F\u0131:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7124070285312
+    m_Localized: EKSTRA CAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7200893157376
+    m_Localized: "MEN\xDCYE D\xD6N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7601734402048
+    m_Localized: "KAYBETT\u0130N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9870701871104
+    m_Localized: KAZANDIN
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

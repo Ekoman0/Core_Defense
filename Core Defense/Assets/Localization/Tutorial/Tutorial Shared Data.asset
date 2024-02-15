@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorial Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorial
+  m_TableCollectionNameGuidString: d293595d678f29b4ca1ea814eca6e595
+  m_Entries:
+  - m_Id: 39697891328
+    m_Key: popups1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58991689728
+    m_Key: popups2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61877370880
+    m_Key: popups3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65132150784
+    m_Key: popups4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108249595904
+    m_Key: popups5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113484087296
+    m_Key: popups6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115329581056
+    m_Key: popups7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162574221312
+    m_Key: popups8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167607386112
+    m_Key: popups9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168983117824
+    m_Key: popups10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211563692032
+    m_Key: popups11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217339248640
+    m_Key: popups12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236427526144
+    m_Key: popups13
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 533574452890042370
+  references:
+    version: 2
+    RefIds:
+    - rid: 533574452890042370
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678127618391

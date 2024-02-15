@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Lvl1 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Lvl1
+  m_TableCollectionNameGuidString: 3c2a555c62b8b3f4dbdbf52bba36a3fd
+  m_Entries:
+  - m_Id: 13517045760
+    m_Key: "Geli\u015Fmi\u015F Uranyum Turret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166141145088
+    m_Key: "Geli\u015Fmi\u015F Turret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1210256834560
+    m_Key: "B\xFCy\xFCk Can Yenileyici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468089090048
+    m_Key: "Termal Jenerat\xF6r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1820645507072
+    m_Key: Elektrikli Sondaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185159884800
+    m_Key: Elektrikli Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2228952612864
+    m_Key: Fabrika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268764946432
+    m_Key: Can Yenileyici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321848057856
+    m_Key: Demir Sondaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2389065973760
+    m_Key: Demir Duvar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2413560709120
+    m_Key: Lazer Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2463011553280
+    m_Key: Lazer Uranyum Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2506842030080
+    m_Key: Havan Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2554552238080
+    m_Key: Havan Uranyum Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616086872064
+    m_Key: "\xC7elik Duvar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2666552737792
+    m_Key: Basit Sondaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717018603520
+    m_Key: Klasik Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2802385272832
+    m_Key: "Uranyum Reakt\xF6r\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970362953728
+    m_Key: Uranyum Duvar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5632466731008
+    m_Key: Demir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35302604128256
+    m_Key: "Demir \xC7ubuk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35475631751168
+    m_Key: "Di\u015Fli \xC7ark"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35534247149568
+    m_Key: "Bak\u0131r Tel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35841580580864
+    m_Key: "Devre Kart\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36020199211008
+    m_Key: "\xC7elik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36047642542080
+    m_Key: Uranyum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36082031640576
+    m_Key: "Geli\u015Fmi\u015F Devre Kart\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41358143111168
+    m_Key: Dalga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41510098550784
+    m_Key: "S\u0131radaki Dalgaya"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41636464541696
+    m_Key: "Kalan D\xFC\u015Fman"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41835836588032
+    m_Key: "Ayarlar\u0131n De\u011Fi\u015Fmesi \u0130\xE7in"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45776972398592
+    m_Key: "Giri\u015F: 1 Devre Kart\u0131 / 1 Uranyum | \xC7\u0131k\u0131\u015F:
+      1 Geli\u015Fmi\u015F Devre Kart\u0131(4sn)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45956253728768
+    m_Key: "Giri\u015F: 1 Demir / 1 Barut | \xC7\u0131k\u0131\u015F: 1 Mermi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985655799808
+    m_Key: "Giri\u015F: 3 Bak\u0131r Tel / 1 Demir | \xC7\u0131k\u0131\u015F: 1 Devre
+      Kart\u0131(4sn)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46136306810880
+    m_Key: "Giri\u015F: 1 Bak\u0131r | \xC7\u0131k\u0131\u015F: 2 Bak\u0131r Tel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46160235315200
+    m_Key: "Giri\u015F: 2 Demir | \xC7\u0131k\u0131\u015F: 1 Di\u015Fli \xC7ark"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46197879193600
+    m_Key: "Giri\u015F: 1 Demir | \xC7\u0131k\u0131\u015F: 2 Demir \xC7ubuk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46222508146688
+    m_Key: "Giri\u015F:  2 Barut / 1 \xC7elik | \xC7\u0131k\u0131\u015F: 1 Havan
+      Topu(1sn)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46254896562176
+    m_Key: "Giri\u015F: 1 K\xF6m\xFCr | \xC7\u0131k\u0131\u015F: 5 Barut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46307644129280
+    m_Key: "Giri\u015F:  5 Demir | \xC7\u0131k\u0131\u015F: 1 \xC7elik(4sn)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48709919162368
+    m_Key: Maksimum Ne Kadar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48825996525568
+    m_Key: "Eksik Malzemeden Dolay\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2292735502303232
+    m_Key: Uranyum Sondaj
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 533574356283162664
+  references:
+    version: 2
+    RefIds:
+    - rid: 533574356283162664
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1677762571884

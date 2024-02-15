@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 9e60219b9cbce1b4f976f7cc836e7fa4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28880781312
+    m_Localized: OYUNCU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84342063104
+    m_Localized: "BAS\u0130T TURRET"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160414154752
+    m_Localized: "GEL\u0130\u015EM\u0130\u015E TURRET"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194903916544
+    m_Localized: LAZER TURRET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 463003828224
+    m_Localized: +3 Hasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 561288953856
+    m_Localized: +5 Hasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 605387866112
+    m_Localized: +10 Hasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 687684304896
+    m_Localized: "Reklam \u0130zle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732882124800
+    m_Localized: "Reklam Y\xFCkleniyor"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

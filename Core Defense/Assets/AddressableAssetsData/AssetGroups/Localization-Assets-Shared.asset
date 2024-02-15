@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 775759c39a7c6624d84340540752eb32
+  m_SerializeEntries:
+  - m_GUID: 13074a327918c0c49baaaeca10f38447
+    m_Address: Assets/Localization/Lvl1/LVL1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba5d99167eafcf4fa63ba15f4ac161f
+    m_Address: Assets/Localization/Settings/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4396f96ee2860af48bcc6a17cfbba292
+    m_Address: Assets/Localization/LvlSettings/LvlSettings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e60219b9cbce1b4f976f7cc836e7fa4
+    m_Address: Assets/Localization/Shop/Shop Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fcb7b97209189a4387df88a0865973d
+    m_Address: Assets/Localization/MenuSettings/Menu Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c2a555c62b8b3f4dbdbf52bba36a3fd
+    m_Address: Assets/Localization/Lvl1/Lvl1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d293595d678f29b4ca1ea814eca6e595
+    m_Address: Assets/Localization/Tutorial/Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: eed8a156317b8b04a9d8634b232b4051, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d20a63abc5bbbf74aba7485b6139f115, type: 2}
+    - {fileID: 11400000, guid: d6cbb6d58b2850e4b957e7dad78f3423, type: 2}

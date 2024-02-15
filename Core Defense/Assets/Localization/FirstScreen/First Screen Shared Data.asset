@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: First Screen Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: First Screen
+  m_TableCollectionNameGuidString: 13074a327918c0c49baaaeca10f38447
+  m_Entries:
+  - m_Id: 5769536585728
+    m_Key: Yeni Oyun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773483425792
+    m_Key: "Ma\u011Faza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5776901783552
+    m_Key: "Kay\u0131tl\u0131 Oyun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5945684770816
+    m_Key: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1797495083352064
+    m_Key: "Nas\u0131l Oynan\u0131r"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7217459954540085272
+  references:
+    version: 2
+    RefIds:
+    - rid: 7217459954540085272
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1677595316468

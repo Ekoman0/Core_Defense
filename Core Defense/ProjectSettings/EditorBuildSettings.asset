@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstScreen.unity
+    guid: 84bce999237b9d949b590221cb8ef2d9
+  - enabled: 1
+    path: Assets/Scenes/MenuSettings.unity
+    guid: f6ec5ba97ffc5354bbe0ec375999aabf
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 105b0a70882c36141987cf0544cf410b
+  - enabled: 1
+    path: Assets/Scenes/EndGameWin.unity
+    guid: abdf5470d73bf0140b340717944a2a16
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 782e18d7849c98e4992e57f9aa031e49
+  - enabled: 1
+    path: Assets/Scenes/LVL1 LOAD.unity
+    guid: a9f3234c0b8e1444794982cf2209f3ba
+  - enabled: 1
+    path: Assets/Scenes/LVL2.unity
+    guid: fd1c9426bc9467d45bc94c3f00304863
+  - enabled: 1
+    path: Assets/Scenes/LevelSettings.unity
+    guid: c73493f17fddb6d47bd07b32419b8bab
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 3d0021a8343653348bdca7da70627a44
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ef7fe55690b288f408946f40d2aaac37
+  - enabled: 1
+    path: Assets/Scenes/LVL3.unity
+    guid: 8a0e5a2e9a6128342af9c2d6676b8bc2
+  - enabled: 1
+    path: Assets/Scenes/LVL2 LOAD.unity
+    guid: f513fb4754eae0f418010bc9a8d61835
+  - enabled: 1
+    path: Assets/Scenes/LVL4.unity
+    guid: d52f4d83d84a4ca4ba947e8ded58f11b
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 619669a174a176a4284ca0e72336dbc2, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: cb33ffb930889db4dbe0d4e123c357f1, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e1c7c936d8570094c9f3c46d50cd8771, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 7c397e3641b218a40bf7cc53a636dfd0, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 9d5eec7c40dc79440be486e682c476fd, type: 2}

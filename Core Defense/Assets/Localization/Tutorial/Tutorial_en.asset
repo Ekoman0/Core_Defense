@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d293595d678f29b4ca1ea814eca6e595, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39697891328
+    m_Localized: Hello Welcome to Core Defense Tutorial. The aim of this game is
+      to protect our base from enemies by collecting the surrounding mines, processing
+      them, obtaining new products and building new defenses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58991689728
+    m_Localized: The most important resource in our game is iron, you can extract
+      iron and other mines with drilling machines. Of course, the digging speed and
+      construction fee of each drilling machine is different.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61877370880
+    m_Localized: When we first start the game, we start with 200 Iron and 100 Bullets.
+      The Construction Cost of Simple Drilling is 100 Iron. Let's start by building
+      a simple drilling in 2 Iron Mines.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65132150784
+    m_Localized: '
+
+      <sprite index= 0>
+
+
+
+
+      Press Button'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108249595904
+    m_Localized: '
+
+      <sprite index= 0>
+
+
+
+
+      Press Button'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113484087296
+    m_Localized: '
+
+      <sprite index= 0>
+
+
+
+
+      And Find Iron On The Ground
+      And Click It. Enough'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115329581056
+    m_Localized: 'Congratulations Now You''ve Started Digging Iron You''re Digging
+      Iron Automatically Every Second. Press The Button To See How Much Iron You
+      Have
+
+      <sprite index=0>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162574221312
+    m_Localized: 'Now, we will see how we can process an iron and turn it into an
+      iron bar. We need to build a factory for this. Press the button.
+
+      <sprite
+      index=0>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 167607386112
+    m_Localized: 'Press The Button And Click On The Ground  After Click On The Confirm
+      Button To Fully Build It.
+
+      <sprite index=0>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168983117824
+    m_Localized: After the Factory is Builded, Click Once on it, Select the Iron
+      Bar on the Opened Screen, and then Press Next. If You Have Enough Iron, The
+      Iron Bar Will Automatically Consume Your Iron And Be Produced
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211563692032
+    m_Localized: Establish a New Factory and Produce Gear Wheels by Doing the Same
+      Procedures.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217339248640
+    m_Localized: 'Congratulations Now Click The Button To Open The Turrets Tab And
+      Place A Simple Turret On Any Floor
+
+      
+
+      <sprite index=0>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236427526144
+    m_Localized: Congratulations! Now You Are Ready To Play You Can Build New Things
+      By Crafting New Materials Good Games!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

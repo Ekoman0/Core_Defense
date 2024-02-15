@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Lvl1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3c2a555c62b8b3f4dbdbf52bba36a3fd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13517045760
+    m_Localized: Advanced Uranium Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166141145088
+    m_Localized: Advanced Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1210256834560
+    m_Localized: Big Health Regenator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468089090048
+    m_Localized: Thermal Generator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1820645507072
+    m_Localized: Electric Drill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185159884800
+    m_Localized: Electric Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2228952612864
+    m_Localized: Factory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268764946432
+    m_Localized: Health Regenator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321848057856
+    m_Localized: Iron Drill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2389065973760
+    m_Localized: Iron Wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2413560709120
+    m_Localized: Laser Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2463011553280
+    m_Localized: Laser Uranium Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2506842030080
+    m_Localized: Mortar Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2554552238080
+    m_Localized: Mortar Uranium Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616086872064
+    m_Localized: Steel Wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2666552737792
+    m_Localized: Basic Drill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717018603520
+    m_Localized: Classic Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2802385272832
+    m_Localized: Uranium Reactor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970362953728
+    m_Localized: Uranium Wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5632466731008
+    m_Localized: Iron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35302604128256
+    m_Localized: Iron Bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35475631751168
+    m_Localized: Gear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35534247149568
+    m_Localized: Copper Wire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35841580580864
+    m_Localized: Circuit Board
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36020199211008
+    m_Localized: Steel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36047642542080
+    m_Localized: Uranium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36082031640576
+    m_Localized: Advanced Circuit Board
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41358143111168
+    m_Localized: 'Wave:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41510098550784
+    m_Localized: 'Remaining Time to  Wave:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41636464541696
+    m_Localized: 'Living Enemy:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41835836588032
+    m_Localized: In order for the settings to change, you must exit and re-enter
+      the current level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45776972398592
+    m_Localized: 'Input: 1 Circuit Board / 1 Uranium | Output: 1 Advanced Circuit
+      Board (4sec)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45956253728768
+    m_Localized: 'Input: 1 Iron / 1 Gunpowder | Output: 1 Bullet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985655799808
+    m_Localized: 'Input: 3 Copper Wire / 1 Iron | Output: 1 Circuit Board(4sec)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46136306810880
+    m_Localized: 'Input: 1 Copper | Output: 2 Copper Wires'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46160235315200
+    m_Localized: 'Input: 2 Iron | Output: 1 Gear'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46197879193600
+    m_Localized: 'Input: 1 Iron | Output: 2 Iron Bars'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46222508146688
+    m_Localized: 'Input: 2 Gunpowder / 1 Steel | Exit: 1 Mortar (1sec)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46254896562176
+    m_Localized: 'Input: 1 Coal | Output: 5 Gunpowder'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46307644129280
+    m_Localized: 'Input: 5 Iron | Output: 1 Steel(4sec)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48709919162368
+    m_Localized: How Much to Produce Maximum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48825996525568
+    m_Localized: FACTORY IS NOT WORKING DUE TO MISSING MATERIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2292735502303232
+    m_Localized: Uranium Drill
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Shop Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Shop
+  m_TableCollectionNameGuidString: 9e60219b9cbce1b4f976f7cc836e7fa4
+  m_Entries:
+  - m_Id: 28880781312
+    m_Key: Oyuncu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84342063104
+    m_Key: Basit Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160414154752
+    m_Key: "Geli\u015Fmi\u015F Turret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194903916544
+    m_Key: Lazer Turret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 463003828224
+    m_Key: +3 Hasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 561288953856
+    m_Key: +5 Hasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 605387866112
+    m_Key: +10 Hasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 687684304896
+    m_Key: "Reklam \u0130zle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732882124800
+    m_Key: "Reklam Y\xFCkleniyor"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 533574356283162640
+  references:
+    version: 2
+    RefIds:
+    - rid: 533574356283162640
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1677755970971
